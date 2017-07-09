@@ -26,7 +26,7 @@ Execute following commands to run this application.
 
 
 ```
-$ git clone https://github.com/srinivastamada/ionic-welcome.git
+$ git clone https://github.com/ahmadsolehin/Ionic-3-Angular-4-Welcome-Page-with-Login-and-Logout.git
 $ cd ionic-welcome
 $ npm install
 $ ionic serve
